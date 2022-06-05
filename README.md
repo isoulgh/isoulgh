@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 <details open>
   <summary> 😇 <b>My Github Stats</b>: </summary>
   <br>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=isoulgh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=isoulgh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=isoulgh&hide_border=true">
 </details>
