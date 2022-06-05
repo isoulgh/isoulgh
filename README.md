@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://www.google.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=R.log(小罗同学祝您今天愉快!)&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=R.log(%E5%B0%8F%E7%BD%97%E5%90%8C%E5%AD%A6%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!)&center=true&size=27">
   </a>
 </h1>
 <!-- 个人资料徽标 -->
