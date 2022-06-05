@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 [![isoulgh's github stats](https://github-readme-stats.vercel.app/api?username=isoulgh)](https://github.com/isoulgh/github-readme-stats)
+[![isoulgh's github language](https://github-readme-stats.vercel.app/api/top-langs/?username=isoulgh)](https://github.com/isoulgh/github-readme-stats)
