@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡  Hope it can really help you that I give here.
 - 👋 My personal [blog site](https://www.baidu.com)
 
----
 <details open>
   <summary> 😇 <b>My Github Stats</b>: </summary>
   <br>
