@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a backend developer.
 - 📫 You can contact me by wechat where my account is **lxho77**.
-- ⚡  Hope it can really help you that I give here.
+- ⚡  Hope that can really help you which I give here.
 - 👋 My personal [blog site](https://www.baidu.com)
 
 <details open>
