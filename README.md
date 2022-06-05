@@ -22,7 +22,5 @@ Here are some ideas to get you started:
 😄很高兴你点开了我的主页
 
 - 🔭 我是一个后端学习者
-<!-- - 🌱 开源了两个仓库：austin和athena -->
-<!-- - 👯 维护了两个公众号：Java3y和对线面试官 -->
 - 📫 你可以通过微信搜**lxho77**联系我
 - ⚡ 希望我写下的东西能帮助到你
